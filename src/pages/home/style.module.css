@@ -1,0 +1,356 @@
+.customContainerHome {
+  background-color: #ffffff;
+  width: auto;
+  height: 100%;
+  margin-bottom: 20px;
+}
+
+/* NAVBAR */
+
+.buttonDownload {
+  color: white;
+  background-color: #dc1e23;
+  height: 47px;
+  border: none;
+  border-radius: 15px;
+  width: 120px;
+}
+
+/* END NAVBAR */
+
+.header {
+  font-weight: 700;
+  font-size: 54px;
+  font-style: normal;
+}
+
+.buttonGooglePlay {
+  background-color: #0d0d0d;
+  border-radius: 10px;
+  height: 50px;
+  color: white;
+  width: 180px;
+  margin-right: 20px;
+}
+
+.buttonAppStore {
+  background-color: #0d0d0d;
+  border-radius: 10px;
+  height: 50px;
+  color: white;
+  width: 180px;
+}
+
+.icon {
+  margin-left: 8px;
+  margin-right: -11px;
+}
+
+.activeUsers {
+  color: #dc1e23;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.newFeatures {
+  color: #dc1e23;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.backgroundRed {
+  background-color: #dc1e23;
+  height: 50%;
+  float: right;
+  margin-top: 100px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  width: 100%;
+  margin-right: -125px;
+}
+
+.iconIkan {
+  float: left;
+  margin-left: -80px;
+  width: 210px;
+  height: auto;
+}
+
+.iconHandphone {
+  width: 100%;
+  height: auto;
+  margin-top: -175px;
+  margin-left: -150px;
+}
+
+/* LAYER 2 */
+
+.customContainerPengiriman {
+  background-color: #dc1e23;
+  width: 100%;
+  height: auto;
+  padding-bottom: 70px;
+}
+
+.containerInput {
+  background: #ffffff;
+  border-radius: 10px;
+  height: 50px;
+  border: none;
+  width: 100%;
+  margin-right: 20px;
+  padding: 10px;
+}
+
+.containerLacak {
+  background: #f2572e;
+  border-radius: 10px;
+  height: 50px;
+  border: none;
+  width: 100%;
+  color: white;
+}
+
+.containerCheck {
+  background: #f2572e;
+  border-radius: 10px;
+  height: 50px;
+  border: none;
+  width: 100%;
+  color: white;
+}
+
+/* LAYER 3 */
+
+.cardCutom {
+  border: 1px solid rgb(235, 235, 235);
+  border-radius: 25px;
+  height: 300px;
+  padding: 30px;
+}
+
+.cardCutom:hover {
+  border: none;
+  border-radius: 25px;
+  box-shadow: 1px 1px 15px rgb(209, 209, 209);
+  padding: 30px;
+}
+
+.customImageCard {
+  width: 100px;
+  height: auto;
+  margin-left: 100px;
+}
+
+/* LAYER 5 */
+
+.backgroundCustomRed {
+  background-color: #dc1e23;
+  height: 50%;
+  float: left;
+  margin-top: 100px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  width: 100%;
+  margin-left: -125px;
+}
+
+.customIconIkan {
+  float: right;
+  width: 250px;
+  height: auto;
+  margin-left: -280px;
+  margin-right: -80px;
+}
+
+.customIconHandphone {
+  width: 550px;
+  height: auto;
+  margin-top: -140px;
+  margin-left: -30px;
+}
+
+/* LAYER 6 */
+
+.customIconIkan4 {
+  float: left;
+  margin-left: -100px;
+  width: 210px;
+  height: auto;
+  margin-top: 40px;
+}
+
+/* LAYER 7 */
+
+.cardCutomTestimonial {
+  border: 1px solid rgb(235, 235, 235);
+  border-radius: 25px;
+  height: auto;
+  padding: 20px;
+  width: 100%;
+}
+
+.cardCutomTestimonial:hover {
+  border: 1px solid rgb(235, 235, 235);
+  box-shadow: 1px 1px 15px rgb(209, 209, 209);
+  border-radius: 25px;
+  height: auto;
+  padding: 20px;
+  width: 100%;
+}
+
+.customImageCardTestimonial {
+  width: 50px;
+  height: auto;
+}
+
+.customIconStar {
+  width: 20px;
+  height: auto;
+}
+
+/* LAYER 8 */
+
+.customContainerCourrier {
+  background-color: #dc1e23;
+  width: 100%;
+  height: auto;
+  margin-top: 150px;
+}
+
+.containerManCourrier {
+  margin-top: -150px;
+  width: 400px;
+  height: auto;
+}
+
+@media screen and (max-width: 720px) {
+  .buttonGooglePlay {
+    margin-left: 10px;
+  }
+
+  .iconIkan {
+    float: left;
+    margin-left: -70px;
+    width: 130px;
+    height: auto;
+  }
+
+  .iconHandphone {
+    width: 400px;
+    height: auto;
+    margin-top: -130px;
+    margin-left: -150px;
+  }
+
+  .backgroundRed {
+    background-color: #dc1e23;
+    height: 40%;
+    float: right;
+    margin-top: 100px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    width: 100%;
+    margin-right: -125px;
+    margin-bottom: 30px;
+  }
+
+  .containerInput {
+    background: #ffffff;
+    border-radius: 10px;
+    height: 50px;
+    border: none;
+    width: 100%;
+    margin-right: 20px;
+    padding: 10px;
+    margin-top: 15px;
+  }
+
+  .containerLacak {
+    background: #f2572e;
+    border-radius: 10px;
+    height: 50px;
+    border: none;
+    width: 100%;
+    color: white;
+    margin-top: 15px;
+  }
+
+  .containerCheck {
+    background: #f2572e;
+    border-radius: 10px;
+    height: 50px;
+    border: none;
+    width: 100%;
+    color: white;
+    margin-top: -30px;
+  }
+
+  .cardCutom {
+    border: 1px solid rgb(235, 235, 235);
+    border-radius: 25px;
+    height: 300px;
+    padding: 30px;
+    margin-top: 20px;
+  }
+
+  .backgroundCustomRed {
+    background-color: #dc1e23;
+    height: 40%;
+    float: left;
+    margin-top: 100px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    width: 100%;
+    margin-left: -125px;
+    margin-bottom: 30px;
+  }
+
+  .customIconIkan {
+    float: right;
+    width: 130px;
+    height: auto;
+    margin-left: -280px;
+    margin-right: -80px;
+  }
+
+  .customIconHandphone {
+    width: 400px;
+    height: auto;
+    margin-top: -140px;
+    margin-left: 40px;
+    margin-right: -200px;
+  }
+
+  .customIconIkan4 {
+    float: left;
+    margin-left: -60px;
+    width: 130px;
+    height: auto;
+    margin-top: 40px;
+  }
+
+  .cardCutomTestimonial {
+    border: 1px solid rgb(235, 235, 235);
+    border-radius: 25px;
+    height: auto;
+    padding: 20px;
+    width: 100%;
+    margin-top: 15px;
+  }
+
+  .customContainerCourrier {
+    background-color: #dc1e23;
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+  }
+
+  .containerManCourrier {
+    margin-top: -20px;
+    width: 400px;
+    height: auto;
+  }
+}
